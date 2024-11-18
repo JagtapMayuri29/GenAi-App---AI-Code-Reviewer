@@ -1,4 +1,4 @@
-# GenAi-App---AI-Code-Reviewer
+# GenAi-App-AI-Code-Reviewer
 Objective -
 The objective of this project was to develop a Python application that allows users to submit their Python code for review and receive feedback on potential bugs along with suggestions for fixes. The application is built to be user-friendly, efficient, and provide accurate bug reports and fixed code snippets.
 
