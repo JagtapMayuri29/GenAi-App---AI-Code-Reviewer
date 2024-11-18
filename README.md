@@ -8,6 +8,9 @@ The application analyzes the submitted code and identify potential bugs, errors,
 The application provides the fixed code snippets.
 
 Tech Stack🛠 -
+
 Gemini API
+
 Python
+
 Streamlit for prototyping
