@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 #setting up the API key
-genai.configure(api_key = "AIzaSyDMLTyTHm434cCiU6wqisAbpNZ2jiz4kd4")
+genai.configure(api_key = "Replace with your valid API Key")
 
 #setting up the headers
 st.title("👨‍💻:violet[AI Python Code Reviewer..!!]💭")
